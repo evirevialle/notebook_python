@@ -1,0 +1,46 @@
+id,surname,first_name,gender,name,norm,profession_verbatim,OhdAB_01,houseno,name_old_clean,name_new,geo_long,geo_lat
+782,Adam,Unbekannt,F,Handel,Kleiderhändler/in,Kleider,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",26,rue de Richelieu,rue de Richelieu,2.33671,48.8653
+846,Berger,Unbekannt,F,Handwerk,Bürstenbinder/in,Bürstenbinderei,"Rohstoffgewinnung, Produktion und Fertigung",60,rue Neuve-des-Petits-Champs,rue des Petits-Champs,2.33253,48.8678
+898,Christiäns,Unbekannt,F,Handel,Korsetthändler/in,Korsetten,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",11,rue de Port-Mahon,rue de Port-Mahon,2.33389,48.87
+936,Dreüe-Bué,Unbekannt,F,Handel,Modehändler/in,Modewaaren und Seidenstickereien,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",8,rue de Choiseul,rue de Choiseul,2.33598,48.8704
+949,Eblée,Unbekannt,F,Unbekannt,Unbekannt,Unbekannt,Unbekannt,15,rue Gaillon,rue Gaillon,2.33401,48.8683
+967,Erpelding,Unbekannt,F,Handwerk,Wachser/in (Textilausrüster/in),Wächserin,"Rohstoffgewinnung, Produktion und Fertigung",5,rue d' Amboise,rue d' Amboise,2.33863,48.8711
+973,Esther,Unbekannt,F,Handel,Modehändler/in,Modewaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",32,rue Vivienne,rue Vivienne,2.33974,48.8684
+1809,Frank,Unbekannt,F,Handwerk,Klavierfabrikant/in - Arbeiter/in,Klavierfabrik,"Sprach-, Literatur-, Geistes-, Gesellschafts- und Wirtschaftswissenschaften, Medien, Kunst, Kultur und Gestaltung",23,galerie Colbert,rue Vivienne,2.33974,48.8684
+1001,Fürstenhoff,Unbekannt,F,Handwerk,Blumenmacher/in,Blumenfabrik,"Sprach-, Literatur-, Geistes-, Gesellschafts- und Wirtschaftswissenschaften, Medien, Kunst, Kultur und Gestaltung",17,rue de Choiseul,rue de Choiseul,2.33592,48.8701
+1006,Gaussens,Unbekannt,F,Rentner,Rentner/in,Rentnerin,"Beschäftigungslose, Schüler, Unbekannte",22,rue Vivienne,rue Vivienne,2.33991,48.8685
+1014,Geyer,Unbekannt,F,Handel,Modehändler/in,Modewaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",10,rue de Grammont,rue de Gramont,2.33685,48.8697
+1022,Göggel,Unbekannt,F,Kunst/Erziehung,Anstaltslehrer/in,Unterrichtsanstalt,"Gesundheit, Soziales, Lehre und Erziehung",7,rue Vivienne,rue Vivienne,2.33936,48.8677
+4274,Gotten,Unbekannt,F,Handwerk,Uhrenmacher/in,"Uhrmacher, Mechaniker u. Lampist","Rohstoffgewinnung, Produktion und Fertigung",3,Place des Victoires,Place des Victoires,2.34111,48.8658
+2176,Grischner,Unbekannt,F,Handel,Spezereienhändler/in,Specereiwaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",22,rue Croix-des-Petits-Champs,rue Croix-des-Petits-Champs,2.33992,48.8636
+1080,Hartewig,Unbekannt,F,Handwerk,Schneider/in,Schneider,"Rohstoffgewinnung, Produktion und Fertigung",20,rue de Richelieu,rue de Richelieu,2.33648,48.8649
+1106,Hennebert,Unbekannt,F,Handwerk,Spitzennäher/in,Spitzenflickerin,"Rohstoffgewinnung, Produktion und Fertigung",47,rue Neuve-des-Petits-Champs,rue des Petits-Champs,2.33552,48.867
+1110,Hermann,Unbekannt,F,Unbekannt,Unbekannt,Unbekannt,Unbekannt,4,rue de Marivaux-Italiens,rue de Marivaux,2.33754,48.8711
+1120,Hestein,Unbekannt,F,Handwerk,Hebamme/Entbindungspfleger,Hebamme,"Gesundheit, Soziales, Lehre und Erziehung",33,rue Neuve-des-Petits-Champs,rue des Petits-Champs,2.33665,48.8668
+1141,Hofmayer,Unbekannt,F,Handel,Blumenhändler/in,Feine Blumen,"Land-, Forst- und Tierwirtschaft und Gartenbau",57,rue Sainte-Anne,rue Sainte-Anne,2.33624,48.8679
+1140,Hofmayer,Unbekannt,F,Handel,Blumenhändler/in,Feine Blumen,"Land-, Forst- und Tierwirtschaft und Gartenbau",32,rue des Moulins,rue des Moulins,2.33522,48.867
+1170,Inger,Unbekannt,F,Handel,Stickereihändler/in,Fertige Stickereien,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",4,rue de la Bourse,rue de la Bourse,2.33963,48.8695
+1206,Kelm,J.,F,Handel,Hausvermieter/in,Modenwaarenhandlung,"Eigentümer, Besitzer und Mieter",17,boulevard des Italiens,boulevard des Italiens,2.337,48.8714
+1251,Kleber,Unbekannt,F,Handel,Milchhändler/in,Milchladen,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",34,rue de Richelieu,rue de Richelieu,2.33691,48.8657
+1957,Kuhn,Unbekannt,F,Kunst/Erziehung,Schreiblehrer/in,Schreiblehrerin,"Gesundheit, Soziales, Lehre und Erziehung",Unbekannt,Rotonde Colbert,rue Vivienne,2.33974,48.8684
+1958,Kuhn,Unbekannt,F,Handel,Modehändler/in,Modewaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Unbekannt,Rotonde Colbert,rue Vivienne,2.33974,48.8684
+1373,Lovenmann,Amalie,F,Handel,Modehändler/in,Modehändlerin,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",56,rue Neuve-des-Petits-Champs,rue des Petits-Champs,2.33302,48.8677
+1443,Müller,Unbekannt,F,Handwerk,Damenschuhmacher/in,Damenschuhmacher,"Rohstoffgewinnung, Produktion und Fertigung",21,passage des Panoramas,passage des Panoramas,2.34167,48.8711
+1451,Nathalie-Kolb,Unbekannt,F,Handwerk,Näher/in (Textil),Näherin,"Rohstoffgewinnung, Produktion und Fertigung",39,rue de Richelieu,rue de Richelieu,2.33656,48.8652
+1196,Peytel,Unbekannt,F,Handwerk,Nähwarenhändler/in,Näharbeiten,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",4,passage Choiseul,passage Choiseul,2.33575,48.869
+1236,Rauch,Unbekannt,F,Selbstständig,Depilator/in,Depilatorium,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",85,rue de Richelieu,rue de Richelieu,2.33845,48.8688
+1267,Reiß,Unbekannt,F,Handel,Weißzeughändler/in,Weißzeughandel,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",11,rue de Ventadour,rue de Ventadour,2.33443,48.867
+1379,Ryder,Unbekannt,F,Kunst/Erziehung,Englischlehrer/in,Lehrerin der englischen Sprache,"Gesundheit, Soziales, Lehre und Erziehung",48,rue Vivienne,rue Vivienne,2.33974,48.8684
+1542,Scheyot,Hipp.,F,Handel,Modehändler/in,Modewaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",9,rue de Ventadour,rue de Ventadour,2.33441,48.8669
+1627,Schuck,Unbekannt,F,Handel,Bekleidungshändler/in,Westen,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",11,rue Sainte-Anne,rue Sainte-Anne,2.33487,48.865
+1648,Schutz,Unbekannt,F,Unbekannt,Unbekannt,Unbekannt,Unbekannt,10,Hôtel Sainte-Anne,rue Sainte-Anne,2.33599,48.8672
+1670,Sitt,Unbekannt,F,Selbstständig,Podologe/Podologin,Fußarzt,"Gesundheit, Soziales, Lehre und Erziehung",156,Palais-Royal,galerie de Valois,2.33797,48.8641
+1678,Spenner,Unbekannt,F,Kunst/Erziehung,Schulangestellte/r,Communalschule,"Gesundheit, Soziales, Lehre und Erziehung",8,rue du Hasard,rue Thérèse,2.33566,48.8662
+1692,Steiner,Unbekannt,F,Handel,Modehändler/in,Modewaaren,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",4,rue Rameau,rue Rameau,2.33672,48.868
+1470,Tuckermann,Unbekannt,F,Handwerk,Hebamme/Entbindungspfleger,Hebamme,"Gesundheit, Soziales, Lehre und Erziehung",3,rue Gaillon,rue Gaillon,2.33371,48.8677
+1474,Van Derborgt,Unbekannt,F,Selbstständig,Hotelangehörige/r,Hôtel Michodière,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",7,rue de la Michodière,rue de la Michodière,2.33466,48.8694
+1500,Wagner,Clara,F,Handel,Modehändler/in,Modenwaaren für Kinder,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",57,passage des Panoramas,passage des Panoramas,2.34167,48.8711
+1502,Wagner,Therese,F,Angestellte,Putzmacher/in,Putzmacherin,"Rohstoffgewinnung, Produktion und Fertigung",30,boulevard des Italiens,boulevard des Italiens,2.337,48.8714
+1718,Weigel,Lina,F,Handel,Modehändler/in,Modehändlerin,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",56,rue Neuve-des-Petits-Champs,rue des Petits-Champs,2.33302,48.8677
+1522,Weil,Unbekannt,F,Handwerk,Textilhändler/in (Einzelhandel),Stickereien,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",26,rue de Richelieu,rue de Richelieu,2.33671,48.8653
+1557,Widmer,Unbekannt,F,Selbstständig,Eigentümer/in,Eigenthümerin,"Eigentümer, Besitzer und Mieter",38,boulevard des Italiens,boulevard des Italiens,2.337,48.8714
